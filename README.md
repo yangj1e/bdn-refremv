@@ -2,8 +2,8 @@
 Deep Bidirectional Estimation for Single Image Reflection Removal. This package is the implementation of the paper:
 
 <small>*Seeing Deeply and Bidirectionally: A Deep Learning Approach for Single Image Reflection Removal  
-Jie Yang*, Dong Gong*, Lingqiao Liu, Qinfeng Shi.  
-In European Conference on Computer Vision (ECCV), 2018.*  
+Jie Yang\*, Dong Gong\*, Lingqiao Liu, Qinfeng Shi.  
+In European Conference on Computer Vision (ECCV), 2018.*  (* Equal contribution)
 \[[Paper](https://donggong1.github.io/docs/refmov_eccv18.pdf)\]
 </small>
 
