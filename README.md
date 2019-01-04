@@ -13,13 +13,17 @@ In European Conference on Computer Vision (ECCV), 2018.*  (* Equal contribution)
 
 From left to right: I, B, R
 
-<img src="samples/0001.jpg" width="200" hspace="3">
-<img src="output/B_0001.png" width="200" hspace="3">
-<img src="output/R_0001.png" width="200" hspace="3">\
+<p float="left">
+    <img src="samples/0001.jpg" width="200">
+    <img src="output/B_0001.png" width="200">
+    <img src="output/R_0001.png" width="200">
+</p>
 
-<img src="samples/0002.jpg" width="200" hspace="3">
-<img src="output/B_0002.png" width="200" hspace="3">
-<img src="output/R_0002.png" width="200" hspace="3">
+<p float="left">
+<img src="samples/0002.jpg" width="200">
+<img src="output/B_0002.png" width="200">
+<img src="output/R_0002.png" width="200">
+</p>
 
 Please refer the paper for technique details.
 
@@ -41,7 +45,7 @@ Please refer the paper for technique details.
 
 ## Synthetic datasets
 
-[Training data](https://drive.google.com/open?id=1bbWsGG1qQgB-sbktI2h5vO8UhD1uHaj7)
+[Training data](https://drive.google.com/open?id=1bbWsGG1qQgB-sbktI2h5vO8UhD1uHaj7)\
 [Test data](https://drive.google.com/open?id=1ZeeKJVbZ_bifsdpAlbguDleViDA4QjCw)
 
 ## Citation
