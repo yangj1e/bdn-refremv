@@ -53,7 +53,7 @@ def define_G(input_nc,
     else:
         print('Model name [%s] is not recognized' % which_model_netG)
     if len(gpu_ids) > 0:
-        netG.cuda(device_id=gpu_ids[0])
+        netG.cuda(device=gpu_ids[0])
     # init_weights(netG, init_type=init_type)
     return netG
 
