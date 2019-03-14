@@ -19,6 +19,14 @@ In European Conference on Computer Vision (ECCV), 2018.*  (* Equal contribution)
     ```
 + An NVIDIA GPU and CUDA 9.0 or higher
 
+### Conda environment
+
+A minimal conda environment for running the test.sh is provided.
+
+```
+conda env create -f env.yml
+```
+
 ## Usage
 
 + Download our pretrained model [here](https://drive.google.com/open?id=1zBCl2qI_fT3CwPZkVvZEv37bDIlhakF6). Unpack the archive into `model` folder.
